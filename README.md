@@ -1,2 +1,5 @@
-# grey-hack
+# Grey Hack
+
+## About
+
 My messy Grey Hack scripts
